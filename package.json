@@ -1,0 +1,19 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "'test repo'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandeeshwar-p/first-repo.git"
+  },
+  "author": "Nandeeshwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nandeeshwar-p/first-repo/issues"
+  },
+  "homepage": "https://github.com/nandeeshwar-p/first-repo#readme"
+}
